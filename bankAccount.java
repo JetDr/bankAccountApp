@@ -2,8 +2,7 @@ public class bankAccount {
     private String firstName;
     private String lastName;
     private int accountID;
-    protected double balance; // Change this to protected
-
+    protected double balance; 
     // Constructor
     public bankAccount() {
         this.balance = 0.0;
